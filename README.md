@@ -12,3 +12,5 @@ System.Data.SqlClient. Esto permitirá realizar consultas para tener acceso a la
 La interfaz se basa en un botón, un combobox y un textbox. Cuando se carga la interfaz, las cuentras disponibles aparecen en el combobox; 
 al seleccionar una, automáticamente el nombre aparece en el textbox. Al pulsar el botón, aparece un mensaje con el balance de la cuenta 
 seleccionada.
+
+![SOA](https://user-images.githubusercontent.com/61480457/76365240-700e2300-62ec-11ea-887b-30ebc893f246.PNG)
